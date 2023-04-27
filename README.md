@@ -1,7 +1,6 @@
 # 3D Printed Chicken Tracking Backpack
 
 ![Backpack on chicken](images/on-chicken.jpg)
-![Model](images/model-screenshot.png)
 
 This device is the key component in measuring the movements of a chicken with a GPS tracking device.
 To accurately track the movements of a chicken the core challenge is integrating the tracking device into a wearable that is not intrusive to the chicken.
@@ -12,6 +11,7 @@ With this key hurdle being overcome the plans can be altered to house any GPS ba
 In our usage of the backpack for FitChix we have integrated software into a tracking device to measure both the steps and distance travelled of each chicken.
 However, in this public release we recommend measuring distance with your choice of fitness tracker. This will save valuable time, money and effort in integrating the software into the unit and still provide the user an accurate assessment of the distance a chicken travels over time.
 
+![Model](images/model-screenshot.png)
 
 ### Notes, on finishing the product:
 
