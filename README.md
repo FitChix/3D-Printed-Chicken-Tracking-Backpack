@@ -1,5 +1,8 @@
 # 3D Printed Chicken Tracking Backpack
 
+![Backpack on chicken](images/on-chicken.jpg)
+![Model](images/model-screenshot.png)
+
 This device is the key component in measuring the movements of a chicken with a GPS tracking device.
 To accurately track the movements of a chicken the core challenge is integrating the tracking device into a wearable that is not intrusive to the chicken.
 These plans have been tested on free range chickens and provide minimal intrusion to the individual chicken, and crucially for these pack animals, minimal distraction to the flock.
