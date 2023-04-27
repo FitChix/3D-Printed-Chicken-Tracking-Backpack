@@ -10,7 +10,7 @@ In our usage of the backpack for FitChix we have integrated software into a trac
 However, in this public release we recommend measuring distance with your choice of fitness tracker. This will save valuable time, money and effort in integrating the software into the unit and still provide the user an accurate assessment of the distance a chicken travels over time.
 
 
-### Notes, on finishing the product.
+### Notes, on finishing the product:
 
 A 3D printed device will need smoothing with sand paper.
 To naturally integrate the product to a chicken we strongly recommend painting the devices the with non-toxic paint. The paint colour must match the colouration of the type of chicken being tracked.
